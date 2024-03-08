@@ -12,11 +12,12 @@ Natural Learning Processing
 Git
 Text Completion/NLP Model API - Hugging Face Text to video Model.
 
-Dependencies (if any)
+Dependencies 
 pytorch
 Diffusor
+GPT models
 
-Backend
+Backend:
 The backend directory contains all the files related to the backend of the application.
 
 
