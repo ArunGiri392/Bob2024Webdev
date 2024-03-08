@@ -4,7 +4,6 @@ import json
 # API key obtained from Hugging face.
 API_KEY = "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"
 
-
 MODEL_NAME = 'gpt2'
 
 # Constructing the URL for the model endpoint
