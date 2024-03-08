@@ -17,6 +17,11 @@ pytorch
 Diffusor
 GPT models
 
+How to run the project:
+
+python texttovideo.py
+python textotext.py
+
 Backend:
 The backend directory contains all the files related to the backend of the application.
 
